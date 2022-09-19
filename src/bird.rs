@@ -1,4 +1,3 @@
-
 use macroquad::prelude::*;
 
 pub const GRAVITY: f32 = 10.0;
